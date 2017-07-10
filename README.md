@@ -1,12 +1,19 @@
 ## Hendrik Geiger
 
-I am an ambitious, excitable and internationally aware young professional, with experience working in start-ups, currently working to become a junior developer at Makers Academy in London. After completing various internships in the tech- and start-up sector, I moved to London where I helped to establish an international recruitment business. Ideally, I am looking for a challenging and fulfilling job opportunity in the start-up or consulting space in Germany.
+## Summary
+
+I am a well-trained junior developer with experience in writing ruby and javascript web apps. I have a strong background in start-ups; both from a business-development and operational perspective. Having been educated in the English language from an early age, I am completely fluent in German and English and have experience working in a diverse set of countries and cultures. Ideally I would like to work in a multi-disciplinary role which allows me to leverage my passion for coding as well as my drive to grow ventures.
+
 
 ### Skills
 
+**Web Development**
+
+I received excellent training in web-development at Makers Academy in London. Adhering closely to the industry norms of test-diven development and pair programming, I completed a number of challenging coding tasks and even developed a market-ready minimum viavle product in a team of 5. I focussed especially on learning javascript and related libraries, but also gained significant expertise in ruby.
+
 **Business Development & Relationship Management**
 
-I worked for an early-stage international recruitment venture, specialising in the audit & risk advisory market. Under my own initiative, I was solely responsible for business developing the German market and was the manager for many of the businesse's key-accounts in the Netherlands, Switzerland, Austria and France. My strong performance lead to best-in-class performance and early promotions.
+As part of James Caan's recruitment entrepreneur business accelerator, I worked for Hanami International, an early stage international recruitment venture specialising in the audit & risk advisory markets world wide. Under my own initiative, I was solely responsible for business developing the German market and was the manager for many of the businesse's key-accounts in the Netherlands, Switzerland, Austria and France. Although the London recruitment market is the most competitive in the world, our venture quickly established itself as a key player in this niche segment. My contribution to the growth of the business was invaluable, as I became the highest billing consultant, even amongst much more experienced peers.
 
 **Strategy & Operations**
 
